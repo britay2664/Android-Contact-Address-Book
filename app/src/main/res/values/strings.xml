@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Brian Taylor - Contacts Address Book</string>
+    <string name="category_a">A</string>
+    <string name="view_details">View Details</string>
+
+    <string name="avery_name">Avery Brooks</string>
+    <string name="avery_photo_description">Portrait of Avery Brooks</string>
+    <string name="avery_address">Address\n124 Harbor Lane\nNorfolk, VA 23510</string>
+    <string name="avery_phone">Phone\n757-555-0101</string>
+    <string name="avery_email">Email\navery.brooks@example.com</string>
+
+    <string name="jordan_name">Jordan Adams</string>
+    <string name="jordan_photo_description">Portrait of Jordan Adams</string>
+    <string name="jordan_address">Address\n218 Bayview Drive\nNorfolk, VA 23503</string>
+    <string name="jordan_phone">Phone\n757-555-0102</string>
+    <string name="jordan_email">Email\njordan.adams@example.com</string>
+
+</resources>
